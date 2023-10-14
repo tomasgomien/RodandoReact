@@ -1,0 +1,12 @@
+
+.contenedor{
+    margin-top: 2rem;
+}
+
+.primero {
+    order: 1;
+}
+
+.ultimo {
+    order: 2;
+}
