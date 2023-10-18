@@ -7,8 +7,8 @@ import {ContenedorProductos} from "../ContenedorProductos/ContenedorProductos";
 
 function Principal() {
 	return (
-		<div className="mainContainer">
-			<div class="row">
+		<div className="mainContainer container-fluid">
+			<div class="row ">
 				<ContenedorTarjetas />
 				<ContenedorProductos />
 			</div>

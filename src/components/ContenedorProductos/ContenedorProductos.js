@@ -8,7 +8,7 @@ import {CategoriasRodados} from "../CategoriasRodados/CategoriasRodados";
 
 export const ContenedorProductos = () => {
 	return (
-		<Container fluid="xl">
+		<Container fluid="xl" className="">
 			<Row>
 				<Col xs={12} md={6} lg={true}>
 					<UltimoProdAgregado />
