@@ -1,0 +1,17 @@
+.blue {
+    opacity: 0.9;
+    color:#020736;
+}
+
+.blue-border {
+    border-color: #020736;
+    opacity: 0.8;
+}
+
+.left-blue {
+   border-left-color: #020736!important;
+   border-left-width: 1px;
+   border-left-style: solid;
+}
+
+

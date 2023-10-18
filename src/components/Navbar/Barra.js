@@ -6,12 +6,12 @@ import Navbar from "react-bootstrap/Navbar";
 
 export const Barra = () => {
 	return (
-		<Navbar className="bg-secondary border-bottom border-5 border-warning mb-5">
+		<Navbar className="bottom-border border-5 mb-5 color">
 			<Container fluid className="">
 				<Navbar.Brand href="#home" className="">
-					<img alt="" src={logo} width="170" height="45" className="ms-0 d-inline-block " />{" "}
+					<img alt="" src={logo} width="210" height="45" className="ms-0 d-inline-block " />{" "}
 				</Navbar.Brand>
-				<div className="fw-bolder d-inline-block fs-3 text-center">Dashboard</div>
+				
 			</Container>
 		</Navbar>
 	);
