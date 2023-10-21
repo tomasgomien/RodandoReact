@@ -1,7 +1,16 @@
 .blue {
-    color:#020736;
+	color: #020736;
 }
 
 .color-back {
-    background-color: #020736!important;
+	background-color: #020736 !important;
+}
+
+.btn {
+	background-color: #f92934 !important;
+	border-color: #de4249 !important;
+}
+.img-rodado {
+	max-width: 15rem !important;
+	margin-bottom: 1rem;
 }
